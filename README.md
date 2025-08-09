@@ -1,7 +1,7 @@
 # 🎧 SCOUtil — Bluetooth Mic Enabler for Android
 
 **SCOUtil** is a *vibe-coded* Android utility that lets you enable or disable **Bluetooth SCO (Synchronous Connection-Oriented) mode** system-wide.  
-This can help certain apps (*WhatsApp, Telegram, basic recorders, etc.*) use your Bluetooth headset microphone even if they don’t officially support it.
+This can help voice recorders and certain messaging apps use your Bluetooth headset microphone even if they don’t officially support it.
 
 ---
 
